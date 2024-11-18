@@ -39,6 +39,7 @@ Example: `python buzzer.py MyPornCollection`
 2. Create or Open a directory.
 
 3. On the URL bar, You will see the URL with Folder ID.
+
 Example: `https://buzzheavier.com/fufufafa`. The Folder ID is `fufufafa`
 
 ```
@@ -49,3 +50,5 @@ You can add the Folder ID to line 187
 
 ## BTW
 Buzzer stands for Buzzheavier Uploader :D
+
+![Buzzer](https://i.kek.sh/6N1ZauQXeDu.png)
