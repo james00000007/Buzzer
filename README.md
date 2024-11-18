@@ -17,7 +17,7 @@ cd Buzzer
 
 3. Install the Script requirements.
 ```
-pip install requirements.txt
+pip install --requirement requirements.txt
 ```
 4. Goto Buzzheavier.com. Login to Your Account.
 
