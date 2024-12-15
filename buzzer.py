@@ -84,7 +84,7 @@ class BH:
 
     def get_complete(self, ids: str, folder: str, complete: list) -> str:
         req = self.session.post(
-            url=f"{self.BUZZHEAVIER_BASE_URL}/f/{ids}",
+            url=f"{self.BUZZHEAVIER_BASE_URL}/fl/{ids}",
             params={
                 "directoryId": folder,
             },
@@ -111,7 +111,7 @@ class BH:
 
     def get_server(self, name: str, size: int) -> tuple:
         req = self.session.post(
-            url=f"{self.BUZZHEAVIER_BASE_URL}/f/",
+            url=f"{self.BUZZHEAVIER_BASE_URL}/fl/",
             json={
                 "name": name,
                 "size": size,
