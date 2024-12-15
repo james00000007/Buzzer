@@ -184,7 +184,7 @@ class BH:
     "--folder",
     type=str,
     required=False,
-    # default="Paste your default folder id here :D",
+    # default="GVHguWeq8AA",
     help="Folder ID.",
 )
 @help_option("--help")
