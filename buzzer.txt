@@ -3,4 +3,4 @@
 # This is a generated file! Do not edit.
 
 # Domain	Subdomain	Path	Secure	Expire	Name	Value
-.flashbang.sh	TRUE	/	FALSE	1768833128	session	AByPegayw4g
+.buzzheavier.com	TRUE	/	FALSE	1768834578	xsession	6EU24PTK6ZUVYA8L
