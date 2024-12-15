@@ -54,7 +54,7 @@ class BH:
             [f"{cookie.name}={cookie.value}" for cookie in self.cookies]
         )
 
-        self.BUZZHEAVIER_BASE_URL: str = "https://flashbang.sh/"
+        self.BUZZHEAVIER_BASE_URL: str = "https://buzzheavier.com/"
         self.BUZZHEAVIER_UPLOAD_URL: Optional[str] = None
 
     def create_folder(self, name: str) -> str:
@@ -184,7 +184,7 @@ class BH:
     "--folder",
     type=str,
     required=False,
-    # default="GVHguWeq8AA",
+    # default="otq8j4s7cq9p",
     help="Folder ID.",
 )
 @help_option("--help")
